@@ -11,7 +11,8 @@ Clone the GitHub Repository: Open the terminal and run:
 
 bash
 Copy code
-<In VS Code Terminal make sure you have Bash installed>git clone https://github.com/Tanishqsingh288/Backend-Comicbooks-API-s-For-the-Internship.git
+<In VS Code Terminal make sure you have Bash installed>git clone https://github.com/Tanishqsingh288/Backend-Comicbooks-API-s-For-the-Internship/tree/master.git 
+or Try to run this  git clone https://github.com/Tanishqsingh288/Backend-Comicbooks-API-s-For-the-Internship.git
 
 Navigate to the Project Directory:
 
