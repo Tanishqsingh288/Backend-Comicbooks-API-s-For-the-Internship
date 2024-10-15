@@ -93,4 +93,4 @@ npm update
 
 Troubleshoot Errors: If you encounter any errors, check the logs or refer to the project documentation for common issues and resolutions.
 
-By following these steps, a new user will have your project fully set up and running on their system.
+By following these steps, new users can have your project fully set up and running on their system.
